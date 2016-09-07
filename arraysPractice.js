@@ -1,4 +1,4 @@
-//Once you complete a problem, open up Chrome and check the answer in the console.
+//Once you complete a problem, open up Chrome and check the answer in the console!
 
 
 var arr = [10,20,30];
